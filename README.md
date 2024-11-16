@@ -1,4 +1,17 @@
-## Hi there 👋
+👋 Hi, I'm **Sakshi**!
+
+🎓 I'm a pre-final year engineering student specializing in **C++**, **Data Structures and Algorithms (DSA)**.  
+💻 I love solving coding challenges and contributing to **open-source projects**.  
+🌱 Currently exploring **frontend development** and enhancing my skills in**web development**.  
+🏆 Achievements:  
+   - 5⭐ on HackerRank in DSA  
+   - Solved 300+ problems on Leetcode   
+   - Active contributor in GirlScript Summer of Code (GSSoC).  
+🌍 Based in Pune, India, and always eager to collaborate on exciting projects!  
+✨ Fun Fact: I’m passionate about robotics and have participated in the **World Robotics Championship**.
+
+📫 **How to reach me**:  
+- [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sakshi-kedari-114888260/))
 
 <!--
 **sakshikedari/sakshikedari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
