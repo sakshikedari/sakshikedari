@@ -5,7 +5,7 @@
 🌱 Currently exploring **frontend development** and enhancing my skills in**web development**.  
 🏆 Achievements:  
    - 5⭐ on HackerRank in DSA  
-   - Solved 300+ problems on Leetcode   
+   - Solved 500+ problems on Leetcode   
    - Active contributor in GirlScript Summer of Code (GSSoC).  
 🌍 Based in Pune, India, and always eager to collaborate on exciting projects!  
 ✨ Fun Fact: I’m passionate about robotics and have participated in the **World Robotics Championship**.
