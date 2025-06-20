@@ -11,7 +11,7 @@
 ✨ Fun Fact: I’m passionate about robotics and have participated in the **World Robotics Championship**.
 
 📫 **How to reach me**:  
-- [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sakshi-kedari-114888260/))
+- LinkedIn-https://www.linkedin.com/in/sakshi-kedari-114888260/
 
 <!--
 **sakshikedari/sakshikedari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
